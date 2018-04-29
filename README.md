@@ -6,7 +6,7 @@ BetterTouchTool Touch Bar Preset by Ridvan Baluyos.
 ![Screenshot](images/Sample-TouchBarShot.png?raw=true)
 ### Installation
 1. Download [BetterTouchTool](https://folivora.ai/). You have a FREE 45-days trial (see [pricing](https://folivora.ai/buy)).
-2. After installing, go to the Manage Presets and click Import.
+2. After installing, go to the Manage Presets and click Import. Load the `ridvanbaluyos.json` file.
 ![Screenshot](images/Instructions.jpg?raw=true)
 
 ### References
